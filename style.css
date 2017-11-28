@@ -1,0 +1,24 @@
+
+
+#wrapper{
+  background-color: #004080;
+  width: 970px;
+  font-family: "Times New Roman", Arial, Verdana;
+  border: 2px solid;
+}
+
+#header{
+  background-color: red;
+}
+
+#navigation{
+  background-color: #45C3B8;
+}
+
+#main_content{
+  background-color: black;
+  color: white;
+}
+#footer{
+  background-color:grey;
+}
